@@ -3,7 +3,7 @@
 A comprehensive, enterprise-grade secure wipe application with cross-platform support for Windows and Android devices. Features online coordination through FastAPI servers, advanced wipe algorithms, HPA/DCO detection, multi-device tracking, comprehensive audit logging, and optional blockchain verification for compliance.
 
 
-TO ACCESS THE ADD https://drive.google.com/drive/folders/1zPwYieshWUH0PvcxDSc3lqvYnuIh5A-2?usp=drive_link
+TO ACCESS THE APP -> https://drive.google.com/drive/folders/1zPwYieshWUH0PvcxDSc3lqvYnuIh5A-2?usp=drive_link
 FOLLOW THE INSTRUCTION PROVIDED 
 CONCEPT:->
 
